@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/jht/Android/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/jht/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/jht/Android/OpenCV-android-sdk/sdk/.externalNativeBuild/cmake/debug/x86_64 --target clean"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Debug-x86_64": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommand": "/home/jht/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/jht/Android/OpenCV-android-sdk/sdk/.externalNativeBuild/cmake/debug/x86_64 --target opencv_jni_shared",
+      "abi": "x86_64",
+      "output": "/home/jht/Android/OpenCV-android-sdk/sdk/.externalNativeBuild/cmake/debug/x86_64/libopencv_jni_shared.a"
+    }
+  }
+}
